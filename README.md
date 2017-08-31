@@ -1,5 +1,5 @@
 ## Privacy Policy
-Birthday Timer (in the following as Bimer) operates as an Amazon Alexa Skill and as a Facebook App created by Florian Dreschner. It is Bimer’s policy to respect your privacy regarding any information we may collect while operating.
+Birthday Master operates as an Amazon Alexa Skill and as a Facebook App created by Florian Dreschner. It is Bimer’s policy to respect your privacy regarding any information we may collect while operating.
 
 We use your Personal Information only to provide a personalized user experience. By enabling the skill, you agree to use of information in accordance with this policy.
 
